@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-My name is HanGyeol
+My name is MinHyeong
